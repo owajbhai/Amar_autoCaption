@@ -1,4 +1,7 @@
 pyrofork
 tgcrypto
 motor
+
 aiohttp
+
+Pyrogram==2.0.106
