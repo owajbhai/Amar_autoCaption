@@ -35,7 +35,7 @@ class Rkn_Botz(object):
     FORCE_SUB = os.environ.get("FORCE_SUB", "ClipMateBhai")
 
     # Database config (required)
-    DB_NAME = os.environ.get("DB_NAME", "AutoCaption_V05_Bot")
+    DB_NAME = os.environ.get("DB_NAME", "Cluster0")
     DB_URL = os.environ.get("DB_URL", "mongodb+srv://georgarevenio:8Gh0DpkI4K3RkVPA@cluster0.gyezl2s.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 
     # Default caption (with safe fallback)
@@ -66,6 +66,7 @@ class Rkn_Botz(object):
 
 
 # ⚠️ Please do not remove this credit!
+
 
 
 
