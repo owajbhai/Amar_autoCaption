@@ -32,7 +32,7 @@ class Rkn_Botz(object):
     PORT = int(os.environ.get("PORT", "8080"))
 
     # Force subscribe channel username (without @) (only public chats username required)
-    FORCE_SUB = os.environ.get("FORCE_SUB", "Deendayal_dhakadd")
+    FORCE_SUB = os.environ.get("FORCE_SUB", "ClipMateBhai")
 
     # Database config (required)
     DB_NAME = os.environ.get("DB_NAME", "AutoCaption_V05_Bot")
@@ -66,5 +66,6 @@ class Rkn_Botz(object):
 
 
 # ⚠️ Please do not remove this credit!
+
 
 
